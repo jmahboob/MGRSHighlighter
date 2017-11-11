@@ -1,26 +1,8 @@
-Cloud To Butt Plus
-=============
+MGRS Highlighter
+================
 
-Chrome extension that replaces occurrences of 'the cloud' with 'my butt', and other amusing cloud-related substitutions.
+Originally forked from Cloud-to-Butt Plus (https://github.com/hank/butt-to-butt)
 
-[Direct download of crx file](https://github.com/hank/cloud-to-butt/blob/master/CloudToButt.crx?raw=true)
+Highlights MGRS coordinates based on a Regex.
 
-Screenshot Gallery
-------------------
-
-http://www.flickr.com/groups/cloud-to-butt/
-
-Installation
-------------
-
-In Chrome, choose Window > Extensions.  Drag CloudToButt.crx into the page that appears.
-
-Safari Version
---------------
-
-Can be found here: https://github.com/logancollins/cloud-to-butt-safari
-
-Firefox Version
----------------
-
-Can be found here: https://github.com/DaveRandom/cloud-to-butt-mozilla
+TODO: Allow highlighted coordinates to be hyperlinked to Google Maps.
